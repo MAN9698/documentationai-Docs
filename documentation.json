@@ -36,6 +36,16 @@
             ]
           },
           {
+            "group": "術数（じゅつすう）",
+            "pages": [
+              {
+                "title": "奇門遁甲",
+                "path": "奇門遁甲"
+              }
+            ],
+            "icon": "stars-icon"
+          },
+          {
             "group": "Components",
             "icon": "layers",
             "pages": [
