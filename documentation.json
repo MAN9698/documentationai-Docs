@@ -179,5 +179,14 @@
       "perplexity",
       "grok"
     ]
+  },
+  "integrations": {
+    "telemetry": {
+      "enabled": "false"
+    }
+  },
+  "feedback": {
+    "reactions": false,
+    "survey": false
   }
 }
