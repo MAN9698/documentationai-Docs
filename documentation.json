@@ -26,7 +26,8 @@
                 "title": "玄女弟子班",
                 "path": "introduction",
                 "icon": "home",
-                "ask-feedback": false
+                "ask-feedback": false,
+                "content-width": "wide"
               },
               {
                 "title": "終生局",
