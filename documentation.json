@@ -23,13 +23,13 @@
             "icon": "rocket",
             "pages": [
               {
-                "title": "奇門遁甲",
-                "path": "QI"
-              },
-              {
                 "title": "Introduction",
                 "path": "introduction",
                 "icon": "home"
+              },
+              {
+                "title": "奇門遁甲",
+                "path": "QI"
               },
               {
                 "title": "Quickstart",
