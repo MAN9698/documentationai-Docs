@@ -40,7 +40,8 @@
             "pages": [
               {
                 "title": "奇門遁甲",
-                "path": "奇門遁甲"
+                "path": "Qi",
+                "icon": "a-large-small-icon"
               }
             ],
             "icon": "stars-icon"
