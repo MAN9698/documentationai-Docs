@@ -19,21 +19,17 @@
         "icon": "book",
         "groups": [
           {
-            "group": "Start Here",
-            "icon": "rocket",
+            "group": "大綱",
+            "icon": "album",
             "pages": [
               {
-                "title": "Introduction",
+                "title": "玄女弟子班",
                 "path": "introduction",
                 "icon": "home"
               },
               {
-                "title": "奇門遁甲",
-                "path": "QI"
-              },
-              {
-                "title": "Quickstart",
-                "path": "quickstart",
+                "title": "技巧總覽",
+                "path": "Skills",
                 "icon": "zap"
               },
               {
