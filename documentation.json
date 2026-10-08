@@ -32,7 +32,8 @@
               {
                 "title": "終生局",
                 "path": "Lifetime",
-                "icon": "activity"
+                "icon": "activity",
+                "content-width": "wide"
               },
               {
                 "title": "時空局",
