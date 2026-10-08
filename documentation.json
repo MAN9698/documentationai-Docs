@@ -170,15 +170,7 @@
     }
   },
   "ai": {
-    "page-actions": [
-      "copy",
-      "download-pdf",
-      "view",
-      "claude",
-      "chatgpt",
-      "perplexity",
-      "grok"
-    ]
+    "page-actions": []
   },
   "integrations": {
     "telemetry": {
