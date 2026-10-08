@@ -160,5 +160,8 @@
     ]
   },
   "title": "玄學弟子クラス",
-  "description": "玄學弟子課程資訊，持繼更新\n包括：風水，六十四卦，占卜，奇門..."
+  "description": "玄學弟子課程資訊，持繼更新\n包括：風水，六十四卦，占卜，奇門...",
+  "logo-dark": "https://blob-cdn.documentation.ai/org-76b633e0-0053-404b-a62a-6c4f6d2f3b54/doc-45ab64c1-784b-4f6e-ac6d-1ae5fcc197a8/1791442714172-vfnxmtm3ih9-White_2025.png?fm=auto&auto=compress%2Cformat",
+  "logo-light": "https://blob-cdn.documentation.ai/org-76b633e0-0053-404b-a62a-6c4f6d2f3b54/doc-45ab64c1-784b-4f6e-ac6d-1ae5fcc197a8/1791442726778-lw7yj25g6g-Black_2025.png?fm=auto&auto=compress%2Cformat",
+  "favicon": "https://blob-cdn.documentation.ai/org-76b633e0-0053-404b-a62a-6c4f6d2f3b54/doc-45ab64c1-784b-4f6e-ac6d-1ae5fcc197a8/1791442987270-gjmtdewiyjs-favicon-white.svg?rasterize-bypass=true"
 }
