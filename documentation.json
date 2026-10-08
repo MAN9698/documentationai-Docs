@@ -188,5 +188,10 @@
   "feedback": {
     "reactions": false,
     "survey": false
-  }
+  },
+  "customCss": [
+    {
+      "src": "styles/navbar-button.css"
+    }
+  ]
 }
