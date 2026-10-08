@@ -2,12 +2,12 @@
   "name": "玄學弟子クラス",
   "colors": {
     "light": {
-      "brand": "#c27794",
+      "brand": "#a64f82",
       "heading": "#1a1a1a",
       "text": "#374151"
     },
     "dark": {
-      "brand": "#a64f82",
+      "brand": "#c27794",
       "heading": "#f2f2f2",
       "text": "#c1c1c1"
     }
