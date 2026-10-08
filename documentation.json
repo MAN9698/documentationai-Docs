@@ -19,6 +19,10 @@
             "icon": "rocket",
             "pages": [
               {
+                "title": "奇門遁甲",
+                "path": "QI"
+              },
+              {
                 "title": "Introduction",
                 "path": "introduction",
                 "icon": "home"
@@ -34,17 +38,6 @@
                 "icon": "code"
               }
             ]
-          },
-          {
-            "group": "術数（じゅつすう）",
-            "pages": [
-              {
-                "title": "奇門遁甲",
-                "path": "Qi",
-                "icon": "a-large-small-icon"
-              }
-            ],
-            "icon": "stars-icon"
           },
           {
             "group": "Components",
