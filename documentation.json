@@ -26,8 +26,7 @@
                 "title": "玄女弟子班",
                 "path": "introduction",
                 "icon": "home",
-                "ask-feedback": false,
-                "content-width": "wide"
+                "ask-feedback": false
               },
               {
                 "title": "終生局",
@@ -45,11 +44,6 @@
                 "path": "Skills",
                 "icon": "zap",
                 "ask-feedback": false
-              },
-              {
-                "title": "Components",
-                "path": "components",
-                "icon": "code"
               }
             ]
           },
@@ -92,78 +86,26 @@
         ]
       },
       {
-        "tab": "API Reference",
-        "icon": "code",
+        "tab": "01 - 04課",
+        "icon": "book-a",
         "groups": [
           {
-            "group": "Overview",
+            "group": "01 - 04課",
             "icon": "file-text",
             "pages": [
               {
-                "title": "Authentication",
-                "path": "authentication",
-                "icon": "lock"
+                "title": "01 - 認識",
+                "path": "01"
+              },
+              {
+                "title": "02 - 天干",
+                "path": "02"
               }
             ]
           },
           {
             "group": "Sample Endpoints",
             "openapi": "openapi.yaml"
-          }
-        ]
-      },
-      {
-        "tab": "Help Center",
-        "icon": "help-circle",
-        "pages": [
-          {
-            "title": "Help Center",
-            "path": "help-center",
-            "icon": "home"
-          },
-          {
-            "group": "FAQs",
-            "icon": "help-circle",
-            "expandable": false,
-            "pages": [
-              {
-                "title": "Documentation Source",
-                "path": "help-center/faq/getting-started"
-              }
-            ]
-          },
-          {
-            "group": "Troubleshooting",
-            "icon": "alert-triangle",
-            "expandable": false,
-            "pages": [
-              {
-                "title": "Page Missing in Sidebar",
-                "path": "help-center/troubleshooting/install-error"
-              }
-            ]
-          },
-          {
-            "group": "Guides",
-            "icon": "book-open",
-            "expandable": false,
-            "pages": [
-              {
-                "title": "Create Your First Page",
-                "path": "help-center/guides/setup-project"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Changelog",
-        "icon": "clock",
-        "pages": [
-          {
-            "title": "Changelog",
-            "path": "changelog",
-            "icon": "history"
           }
         ]
       }
