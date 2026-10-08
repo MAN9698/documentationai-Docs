@@ -168,8 +168,8 @@
   "navbar": {
     "actions": {
       "primary": {
-        "title": "Home",
-        "link": ""
+        "title": "首頁",
+        "link": "http://ladylinshui.hk/"
       }
     }
   }
