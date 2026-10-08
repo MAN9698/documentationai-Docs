@@ -29,6 +29,11 @@
                 "ask-feedback": false
               },
               {
+                "title": "終生局",
+                "path": "終生局",
+                "icon": "activity"
+              },
+              {
                 "title": "術法一覽",
                 "path": "Skills",
                 "icon": "zap",
