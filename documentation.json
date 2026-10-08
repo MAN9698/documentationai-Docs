@@ -100,12 +100,12 @@
               {
                 "title": "02 - 天干",
                 "path": "02"
+              },
+              {
+                "title": "03 - 04 星門神",
+                "path": "03---04"
               }
             ]
-          },
-          {
-            "group": "Sample Endpoints",
-            "openapi": "openapi.yaml"
           }
         ]
       }
