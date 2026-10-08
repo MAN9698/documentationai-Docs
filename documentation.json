@@ -84,6 +84,10 @@
         ]
       },
       {
+        "tab": "Test Tab",
+        "pages": []
+      },
+      {
         "tab": "API Reference",
         "icon": "code",
         "groups": [
