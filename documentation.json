@@ -1,11 +1,15 @@
 {
-  "name": "Starter Kit",
+  "name": "玄學弟子クラス",
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#c45dc6",
+      "heading": "#1a1a1a",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#c48be9",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
@@ -154,5 +158,6 @@
         ]
       }
     ]
-  }
+  },
+  "title": "玄學弟子クラス"
 }
