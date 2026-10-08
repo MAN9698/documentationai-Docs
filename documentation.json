@@ -34,6 +34,11 @@
                 "icon": "activity"
               },
               {
+                "title": "時空局",
+                "path": "時空局",
+                "icon": "align-center"
+              },
+              {
                 "title": "術法一覽",
                 "path": "Skills",
                 "icon": "zap",
