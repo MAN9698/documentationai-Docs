@@ -19,11 +19,11 @@
         "icon": "book",
         "groups": [
           {
-            "group": "大綱",
+            "group": "玄女弟子班",
             "icon": "album",
             "pages": [
               {
-                "title": "玄女弟子班",
+                "title": "奇門遁甲課總覽",
                 "path": "introduction",
                 "icon": "home",
                 "ask-feedback": false
