@@ -26,15 +26,13 @@
                 "title": "玄女弟子班",
                 "path": "introduction",
                 "icon": "home",
-                "ask-feedback": false,
-                "content-width": "wide"
+                "ask-feedback": false
               },
               {
                 "title": "術法一覽",
                 "path": "Skills",
                 "icon": "zap",
-                "ask-feedback": false,
-                "content-width": "wide"
+                "ask-feedback": false
               },
               {
                 "title": "Components",
