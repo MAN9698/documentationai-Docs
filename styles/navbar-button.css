@@ -1,5 +1,4 @@
 /* Light mode only: force navbar primary button text to pure white */
-:root:not(.dark) .dai-navbar-buttons a,
-:root:not(.dark) .dai-navbar-buttons button {
+:root:not(.dark) .dai-navbar-buttons a {
   color: #ffffff;
 }
