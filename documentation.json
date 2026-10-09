@@ -77,8 +77,9 @@
                 "path": "06"
               },
               {
-                "title": "07 - 八字用神",
-                "path": "07"
+                "title": "07 - 10 四害",
+                "path": "07",
+                "icon": "lucide-star"
               }
             ]
           }
