@@ -104,5 +104,6 @@
     {
       "src": "styles/navbar-button.css"
     }
-  ]
+  ],
+  "initialRoute": "introduction"
 }
