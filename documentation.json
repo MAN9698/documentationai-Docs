@@ -49,11 +49,11 @@
         ]
       },
       {
-        "tab": "01 - 04 終生局",
+        "tab": "終生局",
         "icon": "book-a",
         "groups": [
           {
-            "group": "Lesson 01 - 04",
+            "group": "Lesson",
             "icon": "file-text",
             "pages": [
               {
@@ -67,6 +67,10 @@
               {
                 "title": "03 - 04 星門神、命盤",
                 "path": "03---04"
+              },
+              {
+                "title": "05 - 命盤例、單宮斷",
+                "path": "05"
               }
             ]
           }
