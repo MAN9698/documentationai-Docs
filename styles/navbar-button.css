@@ -2,3 +2,9 @@
 :root:not(.dark) .dai-navbar-buttons a {
   color: #ffffff;
 }
+
+/* Hide image caption text site-wide; alt text stays in the HTML for accessibility and SEO */
+.dai-article figcaption,
+.dai-page figcaption {
+  display: none;
+}
